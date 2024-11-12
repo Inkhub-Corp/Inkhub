@@ -9,25 +9,26 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Carlos Eduardo Martins Ferreira - carloseduardomf
+Gabriel Moya Amorim - gabiMoya
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+InkHub
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela 'InkHub', fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O sistema InkHub tem como objetivo otimizar o tempo de tatuadores e seus clientes. A plataforma permite o cadastro de estúdios de tatuagem e seus respectivos tatuadores, além de oferecer uma interface para que clientes interessados acessem informações como avaliações, portfólios e, principalmente, a disponibilidade de horários com o tatuador de sua preferência.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina à pessoas maiores de 18 anos, responsáveis por estúdios de tatuagens, tatuadores e interessados em tatuagens.
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Responsáveis pela gestão de um estúdio de tatuagem, tatuadores pertencentes aos estúdios cadastrados, pessoas maiores de 18 anos com interesse em tatuagem.
 
 ***Personas:***
 

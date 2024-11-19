@@ -32,7 +32,7 @@ Responsáveis pela gestão de um estúdio de tatuagem, tatuadores pertencentes a
 
 ***Personas:***
 
-*<Imagem, arquivo (PDF), link com as Personas.>*
+https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***Análise da situação atual: antes da introdução de sua solução***
 

@@ -66,7 +66,18 @@ https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
+
+Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer alterações devido a  uma necessidade de dinamização do processo.
+1- Você atua de forma individual ou em um estudio com outros tatuadores?
+2- Como é feito seu agendamento e captação de clietes?
+3- Um sistema que recomende seus trabalhos/artes para pessoas nas proximudades que gere de forma automática orçamentos seria util?
+4- você aceitaria criar artes e venda-las para outros tatuadores?
+5- Como é feito o pagamento por seus trabalhos?
+6- Como os clientes podem ou avaliam o trabalho?
+7- Qual a feixa etária média dos seus clientes?
+8-Você conversa com outros tatuadores a respeito de clientes ruins? existe algum tipo de blacklist?
+9-Você atende em local próprio ou vai até o cliente caso necessário, exemplo ir a outra cidade?
+10- você possui ou conhece algum sistema de pontuação ou fidelidade dos clientes? se sim qual?
 
 ***2.4. Entrevista***
 

@@ -58,11 +58,11 @@ https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+Link de backup https://1drv.ms/w/c/e4cb7ee63fcb97e5/EepH1gsUu2ZBpaMETyQgRHIBHZj2O7Cyc7Qj1tN5QytG7g?e=VHWlrp
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+[*<Link, imagem, arquivo com os requisitos não funcionais.>*](https://1drv.ms/w/c/e4cb7ee63fcb97e5/EeNkmnTm09ZNkyknuLy9JR4B-QWfoxXJQ2AzrfHLpqR4UA?e=sZOURb)
 
 ***2.3. Perguntas***
 

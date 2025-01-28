@@ -102,7 +102,7 @@ Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer a
 
 ***2.9. Protótipos***
 
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+(https://ninjamock.com/s/B6T9MLx)
 
 ## Referências
 

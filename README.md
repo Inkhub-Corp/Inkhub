@@ -87,7 +87,7 @@ Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer a
 
 ***2.5. Histórias do Usuário***
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+[*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*](https://drive.google.com/file/d/11lNGdanTdqj6CV236Xm77-jTspOpw6Kj/view?usp=sharing)
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 

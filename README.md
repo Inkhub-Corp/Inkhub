@@ -49,11 +49,47 @@ https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+O que as pessoas fazem?
+Clientes buscam tatuadores por meio de redes sociais, indicações ou visitas presenciais a estúdios.
+Entram em contato via mensagens diretas, ligações ou e-mails para verificar disponibilidade, tirar dúvidas e marcar horários.
+Tatuadores gerenciam suas agendas manualmente, utilizando anotações físicas, planilhas ou aplicativos genéricos.
+Há trocas frequentes de mensagens para ajustes de horários e esclarecimento de dúvidas, tornando o processo demorado e sujeito a falhas.
+
+Quais os artefatos envolvidos?
+Redes sociais (Instagram, Facebook, WhatsApp).
+Aplicativos de mensagens e chamadas.
+Cadernos, agendas físicas ou planilhas digitais para organização de horários.
+Portfólios digitais espalhados em diferentes plataformas.
+
+O que elas precisam saber?
+Disponibilidade do tatuador de forma rápida e confiável.
+Portfólio atualizado do profissional para escolher um estilo que combine com sua preferência.
+Avaliações de outros clientes para tomar uma decisão mais segura.
+Procedimentos e valores de cada tatuador/estúdio.
+Regras e políticas de agendamento, como necessidade de sinal, tempo de espera e possibilidade de reagendamento.
+
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+O que as pessoas fazem?
+Clientes acessam a plataforma para visualizar portfólios, avaliações e disponibilidade de tatuadores.
+Fazem o agendamento diretamente pelo sistema, sem necessidade de longas conversas para alinhar horários.
+Recebem confirmações e lembretes automáticos sobre a sessão.
+Tatuadores cadastram seus estúdios, atualizam portfólios e configuram a agenda de forma dinâmica.
+Gerenciam sua disponibilidade de forma otimizada, reduzindo cancelamentos e sobreposições.
+
+Quais os artefatos envolvidos?
+Plataforma InkHub (site ou aplicativo).
+Painel administrativo para tatuadores configurarem horários, preços e portfólio.
+Sistema de notificações para confirmar agendamentos e enviar lembretes.
+Mecanismos de avaliação e feedback dentro da plataforma.
+
+O que elas precisam saber?
+Como navegar na plataforma para buscar tatuadores e estúdios.
+Como realizar e confirmar um agendamento.
+Políticas de cancelamento e reagendamento.
+Como acessar e interpretar avaliações de outros clientes.
+Como gerenciar horários e atualizar portfólio no painel administrativo (para tatuadores).
 
 ## 2. Documentos gerais no repositório
 

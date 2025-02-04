@@ -63,7 +63,7 @@ https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***2.2. Requisitos Não Funcionais***
 
-[*<Link, imagem, arquivo com os requisitos não funcionais.>*](https://1drv.ms/w/c/e4cb7ee63fcb97e5/EeNkmnTm09ZNkyknuLy9JR4B-QWfoxXJQ2AzrfHLpqR4UA?e=sZOURb)
+[*<Link, imagem, arquivo com os requisitos não funcionais.>*](https://drive.google.com/file/d/1cgt2A1-lVa9oiuxSbE4R2H5ZZLa9iXDu/view?usp=drive_link)
 
 ***2.3. Perguntas***
 

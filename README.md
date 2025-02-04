@@ -99,7 +99,7 @@ Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer a
 
 ***2.8. Matrizes de Rastreabilidade***
 
-*<Não foi desenvolvido ao decorrer dos projetos.>*
+*<Não foram desenvolvidas ao decorrer dos projetos.>*
 
 ***2.9. Protótipos***
 

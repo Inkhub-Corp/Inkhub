@@ -95,7 +95,7 @@ Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer a
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+[*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*](https://github.com/Inkhub-Corp/Inkhub/blob/main/image.png?raw=true).
 
 ***2.8. Matrizes de Rastreabilidade***
 

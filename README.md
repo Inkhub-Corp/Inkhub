@@ -91,7 +91,7 @@ Nesta sessão serão inseridas as perguntas feitas na entrevista, podem sofrer a
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+[*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*](https://drive.google.com/file/d/19Yb0fOu4-l8Rdjy9RKaHpiBBW9FHhhUv/view?usp=drive_link)
 
 ***2.7. Diagramas de Atividades***
 

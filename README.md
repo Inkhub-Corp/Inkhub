@@ -49,19 +49,19 @@ https://drive.google.com/drive/folders/1b59wcFH09OsDSChzCROM_7RVSL5FZd20
 
 ***Cenário: Antes***
 
-O que as pessoas fazem?
+O que as pessoas fazem? 
 Clientes buscam tatuadores por meio de redes sociais, indicações ou visitas presenciais a estúdios.
 Entram em contato via mensagens diretas, ligações ou e-mails para verificar disponibilidade, tirar dúvidas e marcar horários.
 Tatuadores gerenciam suas agendas manualmente, utilizando anotações físicas, planilhas ou aplicativos genéricos.
 Há trocas frequentes de mensagens para ajustes de horários e esclarecimento de dúvidas, tornando o processo demorado e sujeito a falhas.
 
-Quais os artefatos envolvidos?
+Quais os artefatos envolvidos? 
 Redes sociais (Instagram, Facebook, WhatsApp).
 Aplicativos de mensagens e chamadas.
 Cadernos, agendas físicas ou planilhas digitais para organização de horários.
 Portfólios digitais espalhados em diferentes plataformas.
 
-O que elas precisam saber?
+O que elas precisam saber? 
 Disponibilidade do tatuador de forma rápida e confiável.
 Portfólio atualizado do profissional para escolher um estilo que combine com sua preferência.
 Avaliações de outros clientes para tomar uma decisão mais segura.
